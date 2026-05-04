@@ -1,0 +1,154 @@
+Added Component: Designator=J1(HDR_F_1X8)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF8"; VariantName = "[No Variations]"
+Added Component: Designator=J2(HDR_F_1X6)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF6"; VariantName = "[No Variations]"
+Added Component: Designator=J3(HDR_F_1X6)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF6"; VariantName = "[No Variations]"
+Added Component: Designator=J4(HDR_F_1X3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF3"; VariantName = "[No Variations]"
+Added Component: Designator=J5(HDR_F_1X3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF3"; VariantName = "[No Variations]"
+Added Component: Designator=J6(HDR_F_1X6)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRF6"; VariantName = "[No Variations]"
+Added Component: Designator=J7(61203421621)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/61203421621/Wurth+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "61203421621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/61203421621/Wurth+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V-A Pin=J1-8
+Added Pin To Net: NetName=24V-A Pin=J7-1
+Added Net: Name=24V-A
+Added Pin To Net: NetName=24V-B Pin=J1-7
+Added Pin To Net: NetName=24V-B Pin=J7-2
+Added Net: Name=24V-B
+Added Pin To Net: NetName=24V-UI Pin=J1-6
+Added Pin To Net: NetName=24V-UI Pin=J7-3
+Added Net: Name=24V-UI
+Added Pin To Net: NetName=A Pin=J4-2
+Added Pin To Net: NetName=A Pin=J7-25
+Added Net: Name=A
+Added Pin To Net: NetName=AI1 Pin=J2-6
+Added Pin To Net: NetName=AI1 Pin=J7-16
+Added Net: Name=AI1
+Added Pin To Net: NetName=AI2 Pin=J2-5
+Added Pin To Net: NetName=AI2 Pin=J7-15
+Added Net: Name=AI2
+Added Pin To Net: NetName=AUX Pin=J2-4
+Added Pin To Net: NetName=AUX Pin=J7-14
+Added Net: Name=AUX
+Added Pin To Net: NetName=B Pin=J4-1
+Added Pin To Net: NetName=B Pin=J7-27
+Added Net: Name=B
+Added Pin To Net: NetName=BAT Pin=J2-3
+Added Pin To Net: NetName=BAT Pin=J7-13
+Added Net: Name=BAT
+Added Pin To Net: NetName=DI1 Pin=J6-6
+Added Pin To Net: NetName=DI1 Pin=J7-34
+Added Net: Name=DI1
+Added Pin To Net: NetName=DI2 Pin=J6-5
+Added Pin To Net: NetName=DI2 Pin=J7-33
+Added Net: Name=DI2
+Added Pin To Net: NetName=DI3 Pin=J6-4
+Added Pin To Net: NetName=DI3 Pin=J7-32
+Added Net: Name=DI3
+Added Pin To Net: NetName=DI4 Pin=J6-3
+Added Pin To Net: NetName=DI4 Pin=J7-31
+Added Net: Name=DI4
+Added Pin To Net: NetName=DI5 Pin=J6-2
+Added Pin To Net: NetName=DI5 Pin=J7-30
+Added Net: Name=DI5
+Added Pin To Net: NetName=DI6 Pin=J6-1
+Added Pin To Net: NetName=DI6 Pin=J7-29
+Added Net: Name=DI6
+Added Pin To Net: NetName=DO6 Pin=J1-3
+Added Pin To Net: NetName=DO6 Pin=J7-6
+Added Net: Name=DO6
+Added Pin To Net: NetName=DO7 Pin=J1-2
+Added Pin To Net: NetName=DO7 Pin=J7-7
+Added Net: Name=DO7
+Added Pin To Net: NetName=DO8 Pin=J1-1
+Added Pin To Net: NetName=DO8 Pin=J7-8
+Added Net: Name=DO8
+Added Pin To Net: NetName=EVC Pin=J1-5
+Added Pin To Net: NetName=EVC Pin=J7-4
+Added Net: Name=EVC
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J7-9
+Added Pin To Net: NetName=GND Pin=J7-10
+Added Pin To Net: NetName=GND Pin=J7-23
+Added Pin To Net: NetName=GND Pin=J7-24
+Added Net: Name=GND
+Added Pin To Net: NetName=PSH Pin=J3-6
+Added Pin To Net: NetName=PSH Pin=J7-22
+Added Net: Name=PSH
+Added Pin To Net: NetName=PSL Pin=J3-1
+Added Pin To Net: NetName=PSL Pin=J7-17
+Added Net: Name=PSL
+Added Pin To Net: NetName=PTA Pin=J2-1
+Added Pin To Net: NetName=PTA Pin=J7-11
+Added Net: Name=PTA
+Added Pin To Net: NetName=PTB Pin=J2-2
+Added Pin To Net: NetName=PTB Pin=J7-12
+Added Net: Name=PTB
+Added Pin To Net: NetName=RS485-A Pin=J5-2
+Added Pin To Net: NetName=RS485-A Pin=J7-26
+Added Net: Name=RS485-A
+Added Pin To Net: NetName=RS485-B Pin=J5-1
+Added Pin To Net: NetName=RS485-B Pin=J7-28
+Added Net: Name=RS485-B
+Added Pin To Net: NetName=SMM Pin=J3-5
+Added Pin To Net: NetName=SMM Pin=J7-21
+Added Net: Name=SMM
+Added Pin To Net: NetName=SMP Pin=J3-4
+Added Pin To Net: NetName=SMP Pin=J7-20
+Added Net: Name=SMP
+Added Pin To Net: NetName=WKUP Pin=J1-4
+Added Pin To Net: NetName=WKUP Pin=J7-5
+Added Net: Name=WKUP
+Added Pin To Net: NetName=ZSA Pin=J3-3
+Added Pin To Net: NetName=ZSA Pin=J7-19
+Added Net: Name=ZSA
+Added Pin To Net: NetName=ZSC Pin=J3-2
+Added Pin To Net: NetName=ZSC Pin=J7-18
+Added Net: Name=ZSC
+Added Class: Name=Expansor_conn
+Added Rule: Name=Schematic Supply Nets
