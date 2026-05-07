@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\Sech\Documents\Equipos2\Placas de conexion MEP\Expansor_MEP\Expansor_conn.PcbDoc
+RuleKind=Width|RuleName=Width_RS485|Scope=Board|Minimum=15.00
+RuleKind=Width|RuleName=Width_DigitalIn|Scope=Board|Minimum=15.00
+RuleKind=Width|RuleName=Width_DO24V|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=Width_AnalogIn|Scope=Board|Minimum=15.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
